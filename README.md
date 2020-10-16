@@ -5,5 +5,7 @@ Object detection by using Haar-Cascade Classifier to detect face and eyes by usi
 [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) : Classifier for face detection<br>
 [haarcascade_eye_tree_eyeglasses.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye_tree_eyeglasses.xml) : Classifier for eyes detection
 
+## Flowchart
 
+  <img src='https://raw.githubusercontent.com/vishalsingha/haar-cascades-face-detection/master/Images/IMG.png'>
 
