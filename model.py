@@ -1,8 +1,8 @@
 import numpy as np
 import cv2
 
-face_cascade = cv2.CascadeClassifier('C:\\Users\\Vishal Singh\\Desktop\\Deeplearning\\haarcascades\\haarcascade_frontalface_default1.xml')
-eye_cascade = cv2.CascadeClassifier('C:\\Users\\Vishal Singh\\Desktop\\Deeplearning\\haarcascades\\haarcascade_eye1.xml')
+face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default1.xml')
+eye_cascade = cv2.CascadeClassifier('haarcascade_eye1.xml')
 
 
 cam = cv2.VideoCapture(0)
